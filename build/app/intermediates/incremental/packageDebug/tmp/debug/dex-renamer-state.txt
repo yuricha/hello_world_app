@@ -1,0 +1,4 @@
+#Mon Feb 05 15:55:15 PET 2024
+base.0=/home/yuri/Documentos/yuri/moviles/aplicaciones/flutter/hello_world_app/hello_world_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
